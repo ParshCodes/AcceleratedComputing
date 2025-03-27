@@ -14,9 +14,3 @@ Instructions on how to set up and run the projects:
 git clone https://github.com/yourusername/Accelerated-Computing-Coursework.git
 cd Accelerated-Computing-Coursework
 
-Usage
-How to run each project, including any build commands.
-
-cd Project1
-make all
-./executeProject
